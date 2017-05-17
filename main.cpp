@@ -7,7 +7,7 @@ int main(int argc, char** argv)
 	
 {
     double d1, d2, d3, dsum;
-    printf  ("\n ¬вед≥ть три д≥йсних числа, розд≥лених проб≥лами \n");
+    printf  ("\n Enter  \n");
     scanf  (" %f%f%f ",  &d1, &d2, &d3);
     dsum = d1+ d2 + d3;
     printf  (" %f + %f + %f = %f ", d1, d2, d3, dsum);
